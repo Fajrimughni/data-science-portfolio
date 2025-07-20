@@ -1,0 +1,42 @@
+Dataset 1 -> Nutrisi Makanan di Indonesia
+
+Nama dataset : nutrition.csv
+Lokasi dataset : Indonesia
+
+Context
+
+Indonesia is a country that has abundant food wealth. Of course, foods and drinks from Indonesia have nutritional value that is beneficial for the body. This dataset may be able to provide insight into measuring the amount of nutrients that enter the body when consuming Indonesian food and drinks.
+
+Source
+
+This dataset was obtained from the Tabel Komposisi Pangan Indonesia (Indonesian Food Composition Table) data published by the Ministry of Health of the Republic of Indonesia (www.panganku.org). This dataset has gone through a modification process in the form of data cleaning and adding image links.
+
+Content
+
+This dataset contains 1346 rows of Indonesian food and drinks. Each row consists of 7 columns including:
+
+id: index data
+calories: the number of calories (in cal) per 100 grams of food/drink
+proteins: the amount of protein (in grams) per 100 grams of food/drink
+fat: the amount of fat (in grams) per 100 grams of food/drink
+carbohydrate: the amount of carbohydrates (in grams) per 100 grams of food/drink
+name: name of food/drink
+image: link to food/drink images
+
+
+Dataset 2 -> Resep Makanan Indonesia
+
+Nama dataset : dataset-ayam.csv
+Lokasi dataset : Indonesia
+
+Indonesian cuisine is a collection of various regional culinary traditions that formed the archipelagic nation of Indonesia. There are a wide variety of recipes and cuisines in part because Indonesia is composed of approximately 6,000 populated islands of the total 17,508 in the world's largest archipelago,with more than 300 ethnic groups calling Indonesia home.Many regional cuisines exist, often based upon indigenous culture with some foreign influences.Indonesia has around 5,350 traditional recipes, with 30 of them considered the most important.Indonesia's cuisine may include rice, noodle and soup dishes in modest local eateries to street-side snacks and top-dollar plates.
+
+Indonesian cuisine varies greatly by region and has many different influences.Sumatran cuisine, for example, often has Middle Eastern and Indian influences, featuring curried meat and vegetables such as gulai and curry, while Javanese cuisine is mostly indigenous,with some hint of Chinese influence. The cuisines of Eastern Indonesia are similar to Polynesian and Melanesian cuisine. Elements of Chinese cuisine can be seen in Indonesian cuisine: foods such as noodles, meat balls, and spring rolls have been completely assimilated.
+
+Dataset 3 -> Konsumsi Makanan di Indonesia (Faktor budaya yang Mempengaruhi Konsumsi Makanan di Indonesia)
+
+Nama dataset : DATASET_cultural dimension of food consumption.xlsx
+Lokasi dataset : Indonesia
+
+Context
+This dataset shows survey data on the characteristics of the cultural dimension of food consumption patterns in urban communities in Indonesia. The cultural dimension discussed in this article includes the cultural value and cultural practice sub-dimensions. Data is enriched by illustrating the cultural characteristics of urban people's food consumption patterns based on social class categories. Data collection was conducted in five major cities of Indonesia with face-to-face interviews with 710 respondents obtained using a stratified random sampling technique. The results of data show that the cultural dimension is quite dominant in influencing the pattern of food consumption of urban communities in Indonesia compared to the economic and health dimensions. Even though conceptually the value and practice sub-dimensions are integrally related, the cultural dimension of food consumption patterns in urban communities are still more dominated by the value sub-dimension. In the food consumption pattern, the urban upper classes are more dominantly influenced by economic dimensions and modern healthy lifestyles than cultural dimensions.
