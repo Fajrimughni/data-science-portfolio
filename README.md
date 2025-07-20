@@ -13,7 +13,7 @@ This repository showcases selected projects that intersect **data science**, **s
 
 An unsupervised learning project that segments Indonesian recipes based on nutritional values and name similarity using TF-IDF and KMeans. Results are integrated into an interactive Streamlit app to enable personalized food recommendations grounded in local culinary data.
 
-[🔗 View on GitHub](https://github.com/Fajrimughni/segmentasi-resep-indonesia)
+[🔗 View on GitHub](./segmentasi-resep-indonesia/)
 
 ---
 
@@ -22,7 +22,7 @@ An unsupervised learning project that segments Indonesian recipes based on nutri
 
 A multidisciplinary text analysis of academic journals to uncover major narratives surrounding the 2008 global financial crisis. Using LDA topic modeling, the project visualizes thematic trends in policy, sustainability, and institutional responses.
 
-[🔗 View on GitHub](https://github.com/Fajrimughni/analisis-jurnal-krisis-2008)
+[🔗 View on GitHub](./analisis-jurnal-krisis-2008/)
 
 ---
 
