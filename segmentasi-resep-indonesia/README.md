@@ -46,7 +46,7 @@ segmentasi-resep-indonesia/
 
 ---
 
-## ▶️ Live App (Optional)
+## ▶️ Live App
 
 You can try the interactive version here :
 
