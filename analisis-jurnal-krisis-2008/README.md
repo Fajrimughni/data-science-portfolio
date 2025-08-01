@@ -13,26 +13,6 @@ This project uses natural language processing to analyze journal articles relate
 - **Tools**: Python, NLTK, Gensim, Scikit-learn, PyLDAvis.
 - **Techniques**: Text Cleaning, LDA Topic Modeling, Wordclouds, Visualization.
 
----
-
-## 📁 Folder Structure
-
-segmentasi-resep-indonesia/
-├── README.md
-├── data/
-│ ├── raw/
-│ └── processed/
-├── notebooks/
-│ ├── eda.ipynb
-│ └── clustering.ipynb
-├── app/
-│ └── streamlit_app.py
-├── images/
-│ ├── cluster_plot.png
-│ └── wordcloud.png
-├── requirements.txt
-└── LICENSE
-
 
 ---
 
