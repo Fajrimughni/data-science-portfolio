@@ -20,11 +20,6 @@ This project explores clustering of Indonesian recipes based on nutritional info
 - Clustered recipes based on both nutritional profiles and title similarity.
 - Successfully deployed an interactive recommendation dashboard using Streamlit.
 
-📷 *Example Visualizations*:
-
-![Cluster Plot]("C:\Users\ASUS\data-science-portfolio\segmentasi-resep-indonesia\images\pola geografis pemilihan makanan.png")
-
----
 
 ## ▶️ Live App
 
