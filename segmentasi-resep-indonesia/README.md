@@ -15,26 +15,6 @@ This project explores clustering of Indonesian recipes based on nutritional info
 
 ---
 
-## 📁 Folder Structure
-segmentasi-resep-indonesia/
-├── README.md
-├── data/
-│ ├── raw/ <- Original raw data
-│ └── processed/ <- Cleaned & structured data
-├── notebooks/
-│ ├── eda_clustering.ipynb <- Exploratory analysis and clustering
-│ └── tfidf_preprocessing.ipynb <- Text processing and feature extraction
-├── app/
-│ └── streamlit_app.py <- Streamlit web app code
-├── images/
-│ ├── cluster_plot.png
-│ └── app_screenshot.png
-├── requirements.txt
-└── LICENSE
-
-
----
-
 ## 📊 Results
 
 - Clustered recipes based on both nutritional profiles and title similarity.
